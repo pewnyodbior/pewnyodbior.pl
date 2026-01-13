@@ -779,15 +779,6 @@ a {
   outline-offset: 2px !important;
   transition: outline 0.2s ease-in-out;
 }
-.cid-v86mFLebKY {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
-  background-image: url("../../../assets/images/projekt-1-800x594.jpeg");
-  overflow: hidden;
-}
-.cid-v86mFLebKY .media-container-row .mbr-text {
-  text-align: center;
-}
 .cid-v87asZNQS1 {
   z-index: 1000;
   width: 100%;
@@ -1363,8 +1354,17 @@ a {
     padding: 1rem;
   }
 }
+.cid-v86mFLebKY {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-image: url("../../../assets/images/projekt-1-800x594.jpeg");
+  overflow: hidden;
+}
+.cid-v86mFLebKY .media-container-row .mbr-text {
+  text-align: center;
+}
 .cid-tJS9vXDdRK {
-  padding-top: 6rem;
+  padding-top: 3rem;
   padding-bottom: 3rem;
   background-image: url("../../../assets/images/mbr-1440x1920.jpg");
 }
