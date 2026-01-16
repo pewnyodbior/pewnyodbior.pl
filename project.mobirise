@@ -59,8 +59,8 @@
     "versionPublish": "6.1.12",
     "imageResize": true,
     "chatbutton": {},
-    "favicon": "@PROJECT_PATH@/assets/images/nic1_2.gif",
-    "mbrsiteDomain": "dwseafjaxq",
+    "favicon": "@PROJECT_PATH@/assets/images/house-128x128.png",
+    "mbrsiteDomain": "j50wywcdqe",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -79,7 +79,7 @@
       "settings": {
         "main": true,
         "title": "pewnyodbior.pl",
-        "meta_descr": "Świadczymy usługi odbioru nowych mieszkań i domów od dewelopera na terenie Lublina i w okolicach. Chcesz mieć pewny lokal to zamów jego odbiór z firmą Pewny odbiór.  Skrupulatnie sprawdzimy tynki, posadzki, stolarkę okienną, balkony i przynależności lokatorskie. Nie zdawaj się na prezentację pomieszczeń tylko przez przedstawiciela dewelopera - on wszystko będzie zachwalał, a nam zależy by odbiór był udany dla klienta. Wikana, Żagiel, Lalak, Domlublin, Orion to najwięsi gracze na rynku nieruchomości - daj nam szansę ich sprawdzić. Nie wierz w bezusterkowy odbiór - zawsze coś się znajdzie.",
+        "meta_descr": "Odbiór techniczny mieszkania w Lublinie. Świadczymy usługi odbioru technicznego nowych mieszkań i domów od dewelopera na terenie Lublina i w okolicach. Chcesz mieć pewny lokal to zamów jego odbiór z nami.  Skrupulatnie sprawdzimy tynki, posadzki, stolarkę okienną, balkony i przynależności lokatorskie. Wikana, Żagiel, Lalak, Domlublin, Orion to najwięksi gracze na rynku nieruchomości - daj nam szansę ich sprawdzić. Nie wierz w bezusterkowy odbiór - zawsze coś się znajdzie.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
