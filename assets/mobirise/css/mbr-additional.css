@@ -1505,6 +1505,145 @@ a {
     margin-bottom: 1rem;
   }
 }
+.cid-v8PxfrGCLU {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background: #edefeb;
+}
+.cid-v8PxfrGCLU .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-v8PxfrGCLU .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (min-width: 768px) {
+  .cid-v8PxfrGCLU .container-fluid {
+    padding: 0;
+  }
+}
+.cid-v8PxfrGCLU .embla__slide {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-width: 490px;
+  max-width: 490px;
+}
+@media (max-width: 768px) {
+  .cid-v8PxfrGCLU .embla__slide {
+    min-width: 100%;
+    max-width: 100%;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
+}
+.cid-v8PxfrGCLU .embla__button--next,
+.cid-v8PxfrGCLU .embla__button--prev {
+  display: flex;
+}
+.cid-v8PxfrGCLU .mobi-mbri-arrow-next {
+  margin-left: 5px;
+}
+.cid-v8PxfrGCLU .mobi-mbri-arrow-prev {
+  margin-right: 5px;
+}
+.cid-v8PxfrGCLU .embla__button {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-v8PxfrGCLU .embla__button:disabled {
+  cursor: default;
+  display: none;
+}
+.cid-v8PxfrGCLU .embla__button.embla__button--prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-v8PxfrGCLU .embla__button.embla__button--next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-v8PxfrGCLU .embla__button {
+    top: auto;
+    bottom: 1rem;
+  }
+}
+.cid-v8PxfrGCLU .embla {
+  position: relative;
+  width: 100%;
+}
+.cid-v8PxfrGCLU .embla__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+.cid-v8PxfrGCLU .embla__viewport.is-draggable {
+  cursor: grab;
+}
+.cid-v8PxfrGCLU .embla__viewport.is-dragging {
+  cursor: grabbing;
+}
+.cid-v8PxfrGCLU .embla__slide a {
+  cursor: grab;
+}
+.cid-v8PxfrGCLU .embla__slide a:active {
+  cursor: grabbing;
+}
+.cid-v8PxfrGCLU .embla__container {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.cid-v8PxfrGCLU .item-menu-overlay {
+  border-radius: 2rem;
+}
+.cid-v8PxfrGCLU .mbr-section-title {
+  color: #232323;
+}
+.cid-v8PxfrGCLU .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-v8PxfrGCLU .mbr-box {
+  color: #ffffff;
+}
+.cid-v8PxfrGCLU .slide-content {
+  position: relative;
+  border-radius: 4px;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  flex-flow: column nowrap;
+}
+.cid-v8PxfrGCLU img,
+.cid-v8PxfrGCLU .item-img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.cid-v8PxfrGCLU .item-wrapper {
+  position: relative;
+}
+.cid-v8PxfrGCLU .content-head {
+  max-width: 800px;
+}
 .cid-v86e93Z4JM {
   padding-top: 2rem;
   padding-bottom: 0rem;
@@ -2139,7 +2278,7 @@ a {
 }
 .cid-v8LlaxkgIp {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/mbr-1440x1920.jpg");
 }
 .cid-v8LlaxkgIp .mbr-fallback-image.disabled {
@@ -2988,7 +3127,7 @@ a {
 }
 .cid-v8LGgXosKN {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/mbr-1440x1920.jpg");
 }
 .cid-v8LGgXosKN .mbr-fallback-image.disabled {
@@ -3745,7 +3884,7 @@ a {
 }
 .cid-v8MkArbpgU {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/mbr-1440x1920.jpg");
 }
 .cid-v8MkArbpgU .mbr-fallback-image.disabled {
@@ -4502,7 +4641,7 @@ a {
 }
 .cid-v8MEWMMcIy {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/mbr-1440x1920.jpg");
 }
 .cid-v8MEWMMcIy .mbr-fallback-image.disabled {
@@ -5259,7 +5398,7 @@ a {
 }
 .cid-v8MSkxrHn2 {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/mbr-1440x1920.jpg");
 }
 .cid-v8MSkxrHn2 .mbr-fallback-image.disabled {
